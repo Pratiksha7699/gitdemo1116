@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-02T20:04:46 IST" name="Default suite" finished-at="2023-06-02T20:05:22 IST" duration-ms="35576">
+    <groups>
+    </groups>
+    <test started-at="2023-06-02T20:04:46 IST" name="Default test" finished-at="2023-06-02T20:05:22 IST" duration-ms="35576">
+      <class name="Demo.Jenkines.SQL">
+        <test-method signature="openSQLCourse()[pri:0, instance:Demo.Jenkines.SQL@37654521]" started-at="2023-06-02T20:04:46 IST" name="openSQLCourse" finished-at="2023-06-02T20:05:22 IST" duration-ms="35504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSQLCourse -->
+      </class> <!-- Demo.Jenkines.SQL -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
