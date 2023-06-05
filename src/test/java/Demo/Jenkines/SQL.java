@@ -18,7 +18,7 @@ public class SQL  {
 		
 		if(title.contains("SQL"))
 		{
-			System.out.println("correct website is launched");
+			System.out.println("correct sql website is launched");
 		}
 		else
 		{
